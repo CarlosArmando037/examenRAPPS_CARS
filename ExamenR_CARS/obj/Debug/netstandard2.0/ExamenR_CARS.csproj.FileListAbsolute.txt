@@ -1,0 +1,16 @@
+C:\Users\CD04\source\repos\ExamenR_CARS\ExamenR_CARS\obj\Debug\netstandard2.0\ExamenR_CARS.csproj.AssemblyReference.cache
+C:\Users\CD04\source\repos\ExamenR_CARS\ExamenR_CARS\obj\Debug\netstandard2.0\ExamenR_CARS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CD04\source\repos\ExamenR_CARS\ExamenR_CARS\bin\Debug\netstandard2.0\ExamenR_CARS.deps.json
+C:\Users\CD04\source\repos\ExamenR_CARS\ExamenR_CARS\bin\Debug\netstandard2.0\ExamenR_CARS.dll
+C:\Users\CD04\source\repos\ExamenR_CARS\ExamenR_CARS\bin\Debug\netstandard2.0\ExamenR_CARS.pdb
+C:\Users\CD04\source\repos\ExamenR_CARS\ExamenR_CARS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\CD04\source\repos\ExamenR_CARS\ExamenR_CARS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\CD04\source\repos\ExamenR_CARS\ExamenR_CARS\obj\Debug\netstandard2.0\ExamenR_CARS.AssemblyInfoInputs.cache
+C:\Users\CD04\source\repos\ExamenR_CARS\ExamenR_CARS\obj\Debug\netstandard2.0\ExamenR_CARS.AssemblyInfo.cs
+C:\Users\CD04\source\repos\ExamenR_CARS\ExamenR_CARS\obj\Debug\netstandard2.0\ExamenR_CARS.csproj.CoreCompileInputs.cache
+C:\Users\CD04\source\repos\ExamenR_CARS\ExamenR_CARS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\CD04\source\repos\ExamenR_CARS\ExamenR_CARS\obj\Debug\netstandard2.0\ExamenR_CARS.dll
+C:\Users\CD04\source\repos\ExamenR_CARS\ExamenR_CARS\obj\Debug\netstandard2.0\refint\ExamenR_CARS.dll
+C:\Users\CD04\source\repos\ExamenR_CARS\ExamenR_CARS\obj\Debug\netstandard2.0\ExamenR_CARS.pdb
+C:\Users\CD04\source\repos\ExamenR_CARS\ExamenR_CARS\obj\Debug\netstandard2.0\ref\ExamenR_CARS.dll
+C:\Users\CD04\source\repos\ExamenR_CARS\ExamenR_CARS\obj\Debug\netstandard2.0\View\Ppropina.xaml.g.cs

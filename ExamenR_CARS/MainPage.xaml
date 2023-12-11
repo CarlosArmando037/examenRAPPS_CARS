@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ExamenR_CARS.MainPage">
+
+    <Grid>
+        <Label Text="Monto total de la cuenta"
+               Margin="0,50,0,0"
+               HorizontalOptions="Center"/>
+        <Entry Text="{Binding MontoTotal}"
+               Margin="50,70,50,690"
+               BackgroundColor="Blue"/>
+
+        <Label Text="% de propina que desea dejar"
+               HorizontalOptions="Center"
+               Margin="0,127,0,0"/>
+        <Entry
+                Text="{Binding Porcentaje}"
+               BackgroundColor="red"
+               Margin="50,150,50,600"/>
+            
+
+        <Label Text="numero de personas que comparten la cuenta"
+               Margin="0,230,0,0"
+               HorizontalOptions="Center"/>
+        <Entry Text="{Binding Cuentas}"
+               BackgroundColor="Green"
+               Margin="50,250,50,500"/>
+        
+        <Button
+            Text="enviar"
+            Command="{Binding Calcularcommand}"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            Margin="0,0,0,0"/>
+        
+        <Label Text="Monto total+Propina"
+               Margin="0,450,0,0"
+               HorizontalOptions="Center"/>
+        <Entry Text="{Binding Respuesta}"
+               BackgroundColor="Green"
+               Margin="50,475,50,275"
+               IsEnabled="False"/>
+
+        <Label Text="Monto entre personas"
+               Margin="0,575,0,0"
+               HorizontalOptions="Center"/>
+        <Entry Text="{Binding MostrarRes}"
+               BackgroundColor="lightblue"
+               Margin="50,600,50,150"/>
+        
+        
+
+        <!--feliz
+        <StackLayout
+            Margin="0,100,0,0"
+            IsVisible="{Binding MostrarRes}">
+            <Image Source="/drawable/feli"
+               IsVisible="{Binding Img}"
+                   />
+
+            <Image Source="/drawable/tiste"
+               IsVisible="{Binding Img2}"/>
+        </StackLayout>
+        -->
+    </Grid>
+
+</ContentPage>
